@@ -1,4 +1,4 @@
-[![MasterHead](content://media/external/downloads/1000130624)](https://toodrippyethan.io​)
+[![MasterHead](content://media/external/downloads/1000130624)](https://liyasthomas.github.io/banner/)
 
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate Software Developer from Cape Town</h3>
